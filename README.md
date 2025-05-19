@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🛠️👨‍💻
 -->
-**Welcome to my  Portfolio!**
+**✨Welcome to my  Portfolio!✨**
 
-👨‍💻 I'm an ICT student working toward becoming a Red Hat Certified Architect.  
+ I'm an ICT student working toward becoming a Red Hat Certified Architect.  
 
-🛠️ I enjoy working on Linux systems, automating tasks with Ansible, and building reliable infrastructure.
+ I enjoy working on Linux systems, automating tasks with Ansible, and building reliable infrastructure.
 
 ### 🧰 Toolbox
 ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?logo=redhat&logoColor=white)
