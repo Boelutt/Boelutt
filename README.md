@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - Red Hat EX374: Automation with Ansible Automation Platform
 - DevOps tools and best practices
 
-📫 Contact : (https://www.linkedin.com/in/lutaw/) 
+📫 Contact: [LinkedIn Profile](https://www.linkedin.com/in/lutaw/)
