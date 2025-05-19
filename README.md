@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 **Welcome to my  Portfolio!**
 
-I'm an ICT student working toward becoming a Red Hat Certified Architect.  
-I enjoy working on Linux systems, automating tasks with Ansible, and building reliable infrastructure.
+👨‍💻 I'm an ICT student working toward becoming a Red Hat Certified Architect.  
+
+🛠️ I enjoy working on Linux systems, automating tasks with Ansible, and building reliable infrastructure.
 
 ### 🧰 Toolbox
 ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?logo=redhat&logoColor=white)
@@ -25,8 +26,14 @@ I enjoy working on Linux systems, automating tasks with Ansible, and building re
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
+### 🎓 Certifications
+
+- ✅ [RHCSA (EX200)]([https://www.credly.com/badges/your-rhcsa-id/public_url](https://www.credly.com/badges/697bfb93-13f3-4874-879b-04869adb13a0/public_url))
+- ✅ [RHCE (EX294)]([https://www.credly.com/badges/your-rhce-id/public_url](https://www.credly.com/badges/4a85873a-d737-452d-94f7-0bb890fcd3bb/public_url))
+
+
 ### 📘 Currently Learning
 - Red Hat EX374: Automation with Ansible Automation Platform
 - DevOps tools and best practices
 
-📫 Reach me: [https://www.linkedin.com/in/lutaw/] 
+📫 Contact : [https://www.linkedin.com/in/lutaw/] 
