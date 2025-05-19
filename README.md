@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### 🎓 Certifications
 
-- ✅ [RHCSA (EX200)]([https://www.credly.com/badges/your-rhcsa-id/public_url](https://www.credly.com/badges/697bfb93-13f3-4874-879b-04869adb13a0/public_url))
-- ✅ [RHCE (EX294)]([https://www.credly.com/badges/your-rhce-id/public_url](https://www.credly.com/badges/4a85873a-d737-452d-94f7-0bb890fcd3bb/public_url))
+- ✅ [RHCSA (EX200)]([https://www.credly.com/badges/your-rhcsa-id/public_url](https://www.credly.com/badges/697bfb93-13f3-4874-879b-04869adb13a0/public_url)])
+- ✅ [RHCE (EX294)]([https://www.credly.com/badges/your-rhce-id/public_url](https://www.credly.com/badges/4a85873a-d737-452d-94f7-0bb890fcd3bb/public_url)])
 
 
 ### 📘 Currently Learning
