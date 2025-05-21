@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ### 📘 Currently Learning
-- Red Hat EX374: Automation with Ansible Automation Platform
+- Red Hat EX374: Developing Automation with Ansible Automation Platform
 - DevOps tools and best practices
 
 📫 Contact: [LinkedIn Profile](https://www.linkedin.com/in/lutaw/)
