@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - ✅ [RHCSA (EX200)](https://www.credly.com/badges/697bfb93-13f3-4874-879b-04869adb13a0/public_url)
 - ✅ [RHCE (EX294)](https://www.credly.com/badges/4a85873a-d737-452d-94f7-0bb890fcd3bb/public_url)
-- ✅ [IBM Data Analyst Professional Certificate)](https://www.credly.com/badges/32bd21b9-f509-43c8-afc8-7d130114cdd2/public_url)
+- ✅ [IBM Data Analyst Professional Certificate](https://www.credly.com/badges/32bd21b9-f509-43c8-afc8-7d130114cdd2/public_url)
 
 
 ### 📘 Currently Learning
