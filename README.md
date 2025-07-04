@@ -1,4 +1,4 @@
-## Hello 👋, I am LU TAW
+## Hello 👋, I am Boelutt
 
 <!--
 **Boelutt/Boelutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 **✨Welcome to my  Portfolio!✨**
 
- I'm an ICT student working toward becoming a Red Hat Certified Architect.  
+ I'm studying toward becoming a Red Hat Certified Architect.  
 
  I enjoy working on Linux systems, automating tasks with Ansible, and building reliable infrastructure.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-### 🎓 Certifications
+<!--### 🎓 Certifications
 
 - ✅ [RHCSA (EX200)](https://www.credly.com/badges/697bfb93-13f3-4874-879b-04869adb13a0/public_url)
 - ✅ [RHCE (EX294)](https://www.credly.com/badges/4a85873a-d737-452d-94f7-0bb890fcd3bb/public_url)
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - DevOps tools and best practices
 
 📫 Contact: [LinkedIn Profile](https://www.linkedin.com/in/lutaw/)
+-->
